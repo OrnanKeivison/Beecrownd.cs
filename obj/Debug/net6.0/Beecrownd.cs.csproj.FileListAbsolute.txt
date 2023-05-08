@@ -1,0 +1,15 @@
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\bin\Debug\net6.0\Beecrownd.cs.exe
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\bin\Debug\net6.0\Beecrownd.cs.deps.json
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\bin\Debug\net6.0\Beecrownd.cs.runtimeconfig.json
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\bin\Debug\net6.0\Beecrownd.cs.dll
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\bin\Debug\net6.0\Beecrownd.cs.pdb
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.csproj.AssemblyReference.cache
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.AssemblyInfoInputs.cache
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.AssemblyInfo.cs
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.csproj.CoreCompileInputs.cache
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.dll
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\refint\Beecrownd.cs.dll
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.pdb
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\Beecrownd.cs.genruntimeconfig.cache
+D:\Users\20221174010009\Documents\GitHub\Beecrownd.cs\obj\Debug\net6.0\ref\Beecrownd.cs.dll
